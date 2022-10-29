@@ -1,6 +1,6 @@
-# ABC App
+# Real Estate Ui Sample
 
-Abc app is a react native project for design and code challenge.
+Real Estate Ui Sample is a react native project for design and code for real estate details.
 
 ## Clone
 
